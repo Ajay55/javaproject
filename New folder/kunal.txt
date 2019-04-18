@@ -11,6 +11,7 @@
 				technical site   data type=checkbox 
 				description      datatype=textbox
 			job positing
+scjckjs
 
 STEPS=
 	setup --(in search field)=object
