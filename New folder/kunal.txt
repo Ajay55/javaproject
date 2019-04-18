@@ -1,0 +1,16 @@
+-------------------------------------Day 1 Key points-------------------------------------------------------
+*-application=collection of different type of list for perticular functio0ning
+1-Sandbox- It is used for making duplicate copy of the application for testing purpose
+2-Matertable- table that contain least information and the key information
+
+3-create custom object=
+			review
+			job posting site
+				job posting site -data type=URL
+				status-		 data type=--checkbox value=active and inactive
+				technical site   data type=checkbox 
+				description      datatype=textbox
+			job positing
+
+STEPS=
+	setup --(in search field)=object
